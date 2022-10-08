@@ -5,7 +5,7 @@
 using namespace std;
 
 void display(int&,int&,int&);
-void counter(int&,int&,int&);
+
 
 int main(){
 	int h=0,m=0,s=0;
